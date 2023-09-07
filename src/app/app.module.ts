@@ -14,6 +14,16 @@ import { TestComponent } from './components/test/test.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
 import { TestingComponent } from './components/testing/testing.component';
 import { HorizontalComponent } from './components/horizontal/horizontal.component';
+import { ToastComponent } from './components/toast/toast.component';
+import { TooltipComponent } from './components/tooltip/tooltip.component';
+import { FocusComponent } from './components/focus/focus.component';
+import { OffconvasComponent } from './components/offconvas/offconvas.component';
+import { PaginationComponent } from './components/pagination/pagination.component';
+import { PopoverComponent } from './components/popover/popover.component';
+import { PbarComponent } from './components/pbar/pbar.component';
+import { TemplateComponent } from './components/template/template.component';
+import { ScrollpsyComponent } from './components/scrollpsy/scrollpsy.component';
+import { TableComponent } from './components/table/table.component';
 
 
 
@@ -30,6 +40,16 @@ import { HorizontalComponent } from './components/horizontal/horizontal.componen
         CarouselComponent,
         TestingComponent,
         HorizontalComponent,
+        ToastComponent,
+        TooltipComponent,
+        FocusComponent,
+        OffconvasComponent,
+        PaginationComponent,
+        PopoverComponent,
+        PbarComponent,
+        TemplateComponent,
+        ScrollpsyComponent,
+        TableComponent,
         
         
       
